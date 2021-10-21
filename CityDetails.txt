@@ -1,0 +1,9 @@
+Cairo,220,100
+Hurghada,669,180
+Luxor,872,210
+Portsaid,260,110
+Matrouh,381,140
+Sinai,435,200
+Bengazi,1090,4000
+Khartoom,2043,3000
+Mecca,1099,500

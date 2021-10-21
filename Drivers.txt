@@ -1,0 +1,5 @@
+4666,External,Mecca,Minibus,RoundTrip,Zero
+4666,External,Khartoom,Limousine,OneWay,Zero
+4666,External,Mecca,Minibus,OneWay,Two
+4666,External,Khartoom,Minibus,RoundTrip,Zero
+4666,External,Mecca,Bus,RoundTrip,Two
